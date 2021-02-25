@@ -1,0 +1,2 @@
+Second Windows Application which is related to JDBC (Java Database Connectivity), which includes Integration of MySQL Database with Java. This project is basically related to CRUD Application, integrated with MySQL database.
+This project basically related to Student Management, the details of student are stored/inserted in Database and retrieved and deleted, so it is basically related to CRUD app. Also it includes Searching record of Student.
